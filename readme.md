@@ -2,8 +2,6 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
-<button>Here's a button</button>
-
 ### About Me
 
 I'm Chris Enns, a podcast producer, editor, and listener from Saskatoon, Saskatchewan, Canada.
