@@ -8,7 +8,7 @@ I'm Chris Enns, a podcast producer, editor, and listener from Saskatoon, Saskatc
 
 * I record and produce podcasts over at [Goodstuff](http://goodstuff.fm) with other fun folks.
 * I edit podcasts for other folks like [ShopTalk Show](http://shoptalkshow.com), [Non-Breaking Space Show](http://goodstuff.fm/nbsp), and [CodePen Radio](https://blog.codepen.io/radio/).
-* I'm building a [set of courses on using fun stuff on the internet(https://courses.chrisenns.com).
+* I'm building a [set of courses on using fun stuff on the internet](https://courses.chrisenns.com).
 * I [tweet](https://twitter.com/ichris) and [blog](http://www.chrisenns.com) from time to time.
 
 
